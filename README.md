@@ -15,3 +15,5 @@ pip install -r requirements.txt
 ```
 python wichSystem.py
 ```
+# Nota
+Esta herramienta solo se puede ejecutar bajo sistemas Linux y no en sistemas Windows.
