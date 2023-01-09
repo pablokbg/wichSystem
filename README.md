@@ -7,11 +7,15 @@ wichSystem es una herramienta escrita en Python3 que permite identificar el sist
 > ![captura2](https://raw.githubusercontent.com/pablokbg/wichSystem/main/images/captura_2.png)
 
 # Uso
-* Paso 1: Instalar el módulo de ipaddress para Python3.
+* Paso 1: Clonar el repositorio.
+```
+git clone https://github.com/pablokbg/wichSystem.git && cd wichSystem
+```
+* Paso 2: Instalar el módulo de ipaddress para Python3.
 ```
 pip install -r requirements.txt
 ```
-* Paso 2: Ejecutar wichSystem
+* Paso 3: Ejecutar wichSystem.
 ```
 python wichSystem.py
 ```
